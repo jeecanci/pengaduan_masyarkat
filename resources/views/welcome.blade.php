@@ -158,7 +158,7 @@
   <!-- Footer -->
   <footer class="text-center font-medium bg-blue-200 py-5">
     © {{ now()->year }} PENGKAT | By
-    <a href="https://madfariz.my.id/" class="text-blue-500" target="_blank">MadFariz</a>
+    <a href="https://jee.my.id/" class="text-blue-500" target="_blank">jee</a>
   </footer>
   @include('sweetalert::alert')
 </body>
