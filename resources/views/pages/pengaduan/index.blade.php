@@ -137,7 +137,7 @@
                       <th class="px-4 py-3">Date</th>
                       <th class="px-4 py-3">Nama</th>
                       <th class="px-4 py-3">Laporan</th>
-                      <th class="px-4 py-3">Foto</th>
+                      <th class="px-4 py-3">Foto</th> 
                       <th class="px-4 py-3">Status</th>
                     </tr>
                   </thead>
